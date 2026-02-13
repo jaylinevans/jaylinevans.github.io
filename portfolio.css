@@ -163,7 +163,6 @@ add image
     object-fit: cover;      /* crops nicely without distortion */
     border-radius: 20px;
 }
-
 .education-table {
     width: 100%;
     margin-top: 20px;
@@ -189,4 +188,3 @@ add image
 .education-table tr:nth-child(even) {
     background-color: #f9f7f4;
 }
-
