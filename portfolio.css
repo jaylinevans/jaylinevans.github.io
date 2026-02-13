@@ -164,4 +164,29 @@ add image
     border-radius: 20px;
 }
 
+.education-table {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+    background: white;
+    border-radius: 18px;
+    overflow: hidden;
+}
+
+.education-table th,
+.education-table td {
+    padding: 16px 20px;
+    text-align: left;
+    vertical-align: top;
+}
+
+.education-table th {
+    background-color: #efe9df;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+}
+
+.education-table tr:nth-child(even) {
+    background-color: #f9f7f4;
+}
 
